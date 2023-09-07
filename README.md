@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel
-- Computer Programming Student at Seneca College | Aspiring Software Developer
-- 🌱 Recently Completed C
+-  Computer Programming Student at Seneca College | Aspiring Software Developer
+- 🌱 Recently Completed C Programming Language
 -  👨‍💻 I’m currently learning C++, Javascript and CSS
 - 🥅 I’m looking to collaborate on some projects and develop my portfolio
 - ✨ ✨ 
